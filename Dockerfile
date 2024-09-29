@@ -1,4 +1,4 @@
-FROM ghcr.io/serversideup/php:8.3-fpm-nginx-alpine
+FROM ghcr.io/serversideup/php:8.1-fpm-nginx-alpine
 
 USER root
 
